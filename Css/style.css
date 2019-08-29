@@ -1,0 +1,55 @@
+body{
+    background-color: #f5f7f8;
+}
+.navbar .navbar-nav .nav-link {
+    color: white;
+    margin-left:  30px;
+}
+.col-md-3 .profile{
+    background-color: #ffffff;
+    padding: 5px;
+}
+.col-md-3 .profile .prolist
+{
+    list-style:none;
+    padding: 5px;
+}
+.col-md-3 .profile .prolist li{
+    padding: 5px;
+}
+.col-md-3 .profile .prolist .fas
+{
+    color:#607d8b;
+}
+.col-md-3 .needs {
+    background-color: #7d97a5;
+}
+.col-md-3 .needs ul{
+    list-style: none;
+    padding: 5px;
+}
+.col-md-3 .needs ul li{
+    padding: 5px;
+    color:#fff;
+}
+.col-md-3 .needs ul .fas{
+    color:#fff;
+}
+.col-md-3 .interests{
+    padding: 10px;
+}
+.col-md-3 .interests span{
+ 
+}
+.col-md-3 .interests a{
+    color:#fff;
+    text-decoration: none;
+    padding:5px;
+}
+.col-md-6 .postimg img{
+width:49%;
+height:50%;
+}
+.btn{
+    color:#fff;
+}
